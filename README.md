@@ -8,8 +8,9 @@ ___
 1. Instalar o [Python](https://www.python.org/) na versão `3.12`
 2. Instalar o [Git](https://git-scm.com/)
 3. Realizar
-   um [clone]([https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository))
-   do repositório [automate](https://github.com/jaymeklein/automate)
+   uma cópia **PRIVADA** do [template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+   deste repositório
+   
 4. Acessar a pasta `automate`, raiz do repositório.
 5. Criar o [venv](https://docs.python.org/3/library/venv.html) do python
    ```bash
@@ -65,8 +66,7 @@ Cada desafio possui uma série de instruções e um arquivo `script.py` que deve
 ___
 
 ## Enviando os Desafios
-1. Crie um repositório privado.
-2. Envie os arquivos do desafio ao repositório criado.
+1. Envie os arquivos do desafio ao repositório **PRIVADO** criado.
 3. Libere acesso ao repositório para o usuário `jaymeklein`
 4. Comunique a equipe Wind da finalização das atividades e nos forneça o link do seu repositório.
 

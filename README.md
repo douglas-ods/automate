@@ -8,15 +8,14 @@ ___
 1. Instalar o [Python](https://www.python.org/) na versão `3.12`
 2. Instalar o [Git](https://git-scm.com/)
 3. Realizar
-   um [fork](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+   um [clone]([https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository))
    do repositório [automate](https://github.com/jaymeklein/automate)
-4. Realizar um [git clone](https://git-scm.com/docs/git-clone) do seu repositório resultante do `fork`
-5. Acessar a pasta `automate`, raiz do repositório.
-6. Criar o [venv](https://docs.python.org/3/library/venv.html) do python
+4. Acessar a pasta `automate`, raiz do repositório.
+5. Criar o [venv](https://docs.python.org/3/library/venv.html) do python
    ```bash
    python -m venv venv 
    ```
-7. Ativar o `venv` criado:
+6. Ativar o `venv` criado:
    ```bash
    .\venv\Scripts\activate
    ```
@@ -29,12 +28,12 @@ ___
     * [VSCode](https://www.youtube.com/watch?v=O0bYaxUINnE)
     * [PyCharm](https://www.youtube.com/watch?v=2P30W3TN4nI)
 
-8. Instalar as bibliotecas:
+7. Instalar as bibliotecas:
    ```bash
    pip install -r requirements.txt
    ```
 
-9. Se nenhum erro ocorreu até o momento, os desafios estão prontos para serem feitos.
+8. Se nenhum erro ocorreu até o momento, os desafios estão prontos para serem feitos.
 
 ___
 
@@ -66,12 +65,10 @@ Cada desafio possui uma série de instruções e um arquivo `script.py` que deve
 ___
 
 ## Enviando os Desafios
-
-1. Realize um [git add](https://git-scm.com/docs/git-add) dos arquivos modificados.
-2. Realize um [git commit](https://git-scm.com/docs/git-commit) com os arquivos do `add`.
-3. Realize um [git push](https://git-scm.com/docs/git-push) do(s) commits realizados.
+1. Crie um repositório privado.
+2. Envie os arquivos do desafio ao repositório criado.
+3. Libere acesso ao repositório para o usuário `jaymeklein`
 4. Comunique a equipe Wind da finalização das atividades e nos forneça o link do seu repositório.
-5. Libere acesso ao repositório criado para o usuário `jaymeklein`
 
 **OBS: O repositório deverá ser PRIVADO**
 ___

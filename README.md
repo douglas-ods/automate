@@ -71,6 +71,7 @@ ___
 2. Realize um [git commit](https://git-scm.com/docs/git-commit) com os arquivos do `add`.
 3. Realize um [git push](https://git-scm.com/docs/git-push) do(s) commits realizados.
 4. Comunique a equipe Wind da finalização das atividades e nos forneça o link do seu repositório.
+5. Libere acesso ao repositório criado para o usuário `jaymeklein`
 
 **OBS: O repositório deverá ser PRIVADO**
 ___

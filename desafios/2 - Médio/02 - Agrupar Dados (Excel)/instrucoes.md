@@ -18,8 +18,8 @@ O script deverá:
 11. Cada linha do arquivo `{NR_LOTE}.csv` será um item daquele lote em específico.
 12. Ainda na pasta da licitação, crie um arquivo `link.txt`, contendo o link presente no `DataFrame` de licitações
 
-___
-Dicas:
+__
+Dicas
 
 * Para baixar o arquivo, use alguma biblioteca para fazer requisições HTTP, é possível baixar o arquivo assim.
 * Não use iterações (`for`, `while`, etc) para buscar os registros nas tabelas, o pandas possui métodos prontos e
